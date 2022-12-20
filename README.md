@@ -35,8 +35,8 @@ This is the list of prerequisites needed for this password manager to run.
    python setup.py
    ```
 4. Replace the ```masterPasswordCheck``` variable in ```main.py``` with the newly generated value
-   ```sh
-   python setup.py
+   ```python
+   masterPasswordCheck = "GENERATED KEY"
    ```
 5. Run the password manager and enter the master password you just used
    ```sh
