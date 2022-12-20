@@ -46,7 +46,9 @@ This is the list of prerequisites needed for this password manager to run.
 ### Contact
 
 Ben Webster - https://benwebs.com
+
 Youtube - https://www.youtube.com/@benjaminwebster/
+
 Repo - https://github.com/Astro-gram/password-manager
 
 <br/>
